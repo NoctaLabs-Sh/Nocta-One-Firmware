@@ -1,0 +1,31 @@
+# Build output
+build/
+Debug/
+Release/
+out/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# STM32CubeMX / CubeIDE
+.mxproject
+*.launch
+.settings/
+.cproject
+.project
+
+# Toolchain and editor
+compile_commands.json
+.cache/
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
