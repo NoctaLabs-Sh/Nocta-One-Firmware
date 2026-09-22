@@ -20,7 +20,7 @@ There is no bug bounty. I am not able to pay for findings.
 ## Scope
 
 - This repository, once firmware exists.
-- [nocta-sh/Nocta-One-Hardware](https://github.com/nocta-sh/Nocta-One-Hardware),
+- [NoctaLabs-Sh/Nocta-One-Hardware](https://github.com/NoctaLabs-Sh/Nocta-One-Hardware),
   including the schematic and the bill of materials.
 - The site at noctalabs.sh.
 
