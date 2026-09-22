@@ -8,7 +8,7 @@ exists to settle the licence and the disclosure policy before any code lands.
 ## The hardware it runs on
 
 Nocta One rev v3. The design is public and can be checked:
-[nocta-sh/Nocta-One-Hardware](https://github.com/nocta-sh/Nocta-One-Hardware)
+[NoctaLabs-Sh/Nocta-One-Hardware](https://github.com/NoctaLabs-Sh/Nocta-One-Hardware)
 
 | Function | Part |
 | --- | --- |
